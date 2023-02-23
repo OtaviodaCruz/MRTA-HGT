@@ -7,6 +7,6 @@
 
 **/MRTA-HGT:** contains simulation for MRTA-HGT.
 
-**/Modified Swarm-GAP:** contains simulations for modified algorithms based on Swarm-GAP.
+**/Modified algorithms:** contains simulations for modified algorithms based on Swarm-GAP.
 
 **/All results:** contains tables and graphs of the results.
